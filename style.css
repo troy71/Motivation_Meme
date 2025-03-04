@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+    
+}
+
+h1{
+    color: cornflowerblue;
+    font-size: 3rem;
+    letter-spacing: 5px;
+}
+
+img{
+    border: 5px solid white;
+    width: 100%;
+}
+
+.poster{
+color: white;
+width: 50%;
+margin-left: 25%;
+margin-top: 25px;
+font-family: "Libre Baskerville", sans-serif;
+text-align: center;
+}
+
+
+  
